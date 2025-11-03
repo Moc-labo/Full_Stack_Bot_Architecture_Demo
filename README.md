@@ -1,11 +1,15 @@
 # 🚀 【技術デモ】マルチ言語・並列処理Webボットシステム
 
 <p align="left">
-  <img src="[https://img.shields.io/badge/Python-3.12-blue.svg?style=for-the-badge&logo=python](https://img.shields.io/badge/Python-3.12-blue.svg?style=for-the-badge&logo=python)" alt="Python 3.12">
-  <img src="[https://img.shields.io/badge/Node.js-18-green.svg?style=for-the-badge&logo=node.js](https://img.shields.io/badge/Node.js-18-green.svg?style=for-the-badge&logo=node.js)" alt="Node.js 18">
-  <img src="[https://img.shields.io/badge/Selenium-4.21-darkgreen.svg?style=for-the-badge&logo=selenium](https://img.shields.io/badge/Selenium-4.21-darkgreen.svg?style=for-the-badge&logo=selenium)" alt="Selenium">
-  <img src="[https://img.shields.io/badge/Puppeteer-22.10-blue.svg?style=for-the-badge&logo=puppeteer](https://img.shields.io/badge/Puppeteer-22.10-blue.svg?style=for-the-badge&logo=puppeteer)" alt="Puppeteer">
-  <img src="[https://img.shields.io/badge/AI_Integration-2Captcha-red.svg?style=for-the-badge](https://img.shields.io/badge/AI_Integration-2Captcha-red.svg?style=for-the-badge)" alt="AI Integration (2Captcha)">
+  <img src="https://img.shields.io/badge/Python-3.12-blue.svg?style=for-the-badge&logo=python" alt="Python 3.12">
+  &nbsp;
+  <img src="https://img.shields.io/badge/Node.js-18-green.svg?style=for-the-badge&logo=node.js" alt="Node.js 18">
+  &nbsp;
+  <img src="https://img.shields.io/badge/Selenium-4.21-darkgreen.svg?style=for-the-badge&logo=selenium" alt="Selenium">
+  &nbsp;
+  <img src="https://img.shields.io/badge/Puppeteer-22.10-blue.svg?style=for-the-badge&logo=puppeteer" alt="Puppeteer">
+  &nbsp;
+  <img src="https://img.shields.io/badge/AI_Integration-2Captcha-red.svg?style=for-the-badge" alt="AI Integration (2Captcha)">
 </p>
 
 ## 1. プロジェクト概要：AI時代の自動化アーキテクチャ
@@ -59,7 +63,7 @@
 
 ## 5. 実行手順（技術デモ）
 
-このリポジトリのコードは、`TIGET` などの固有名詞を「`example.com`」などに書き換えた「技術デモ版」です。
+このリポジトリのコードは、実際のサイト名などの固有名詞を「`example.com`」などに書き換えた「技術デモ版」です。
 
 ### A. Python (`python_bots` フォルダ)
 1.  `cd python_bots`
