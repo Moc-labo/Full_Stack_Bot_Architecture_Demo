@@ -19,7 +19,8 @@
 特定のWebサイトを対象としたものではなく、あらゆるWebシステムに応用可能な「**設計思想（アーキテクチャ）**」と「**技術力**」を証明するために公開しています。
 
 ### システム構成図
-![Web操作_ポートフォリオ_構造図](https://github.com/user-attachments/assets/c4b19402-7a22-4422-a418-9cfcfa890af8)
+![Web操作_ポートフォリオ_構造図](https://github.com/user-attachments/assets/ad6bcb35-1551-46b6-80f6-5cb2deaa83ce)
+
 
 
 
