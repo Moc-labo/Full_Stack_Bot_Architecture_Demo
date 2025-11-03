@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-bot-demos",
+  "version": "1.0.0",
+  "description": "【技術デモ】Node.jsによるAI連携・並列Web登録・メール認証システム",
+  "main": "demo_parallel_register_ai.js",
+  "scripts": {
+    "start:register": "node demo_parallel_register_ai.js",
+    "start:email": "node demo_email_autoverify.js"
+  },
+  "author": "Moc_Labo",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "imap-simple": "^5.1.0",
+    "mailparser": "^3.7.1",
+    "puppeteer": "^22.10.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
